@@ -1,6 +1,6 @@
 # Refined Recipe
 
-![plot](./images/refined-recipe.png)
+![Landing Image](./images/refined-recipe.png)
 
 ### Project Motivation
 - Wanted to build app around Google Firebase
@@ -16,11 +16,11 @@
 - Can edit or delete personal recipe
 
 ### Screens
-![plot](./images/screens/profile-screen.png)
-![plot](./images/screens/add-screen.png)
-![plot](./images/screens/recipe-screen.png)
+![Profile Screen](./images/screens/profile-screen.png)
+![Add Recipe Screen](./images/screens/add-screen.png)
+![Recipes Screen](./images/screens/recipe-screen.png)
 
 ### Tech Stack
-![plot](./images/logos/swift-logo.svg)
-![plot](./images/logos/firebase-logo.svg)
+![Swift Logo](./images/logos/swift-logo.svg)
+![Firebase Logo](./images/logos/firebase-logo.svg)
 
